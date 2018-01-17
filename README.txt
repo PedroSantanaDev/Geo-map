@@ -1,4 +1,4 @@
-Author: Pedro Satana
+Author: Pedro Santana
 
 Geo-map example using php, json, javascript and boilerplate.
 
